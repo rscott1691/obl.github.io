@@ -33,7 +33,7 @@ body{
 h1{
 	/* Heading Font*/
 	text-align:center;
-	font-family:"Nerko one";
+	font-family:'nerko_oneregular';
 	font: 24pt;
 	color: #171417;
 }
@@ -44,7 +44,7 @@ hr{
 }
 p{
 	/* Body Font*/
-	font-family:"Ranchers";
+	font-family:'ranchersregular';
 	font-size: 12pt;
 	text-align: left;
 }
