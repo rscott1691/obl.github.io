@@ -1,13 +1,13 @@
 body{
 	/* Website background (outside) blue */:
-	background: #d6bcd6;
+	background: #00A4CC;
 	text-align: center;
 }
 #main{
 	width:1000px;
 	height:600px;
 	 /* Website background (inside) orange */:
-	background: #EED1EE;
+	background: #F95700;
 	margin: 25px auto;
 	border: dotted 10px #8e7d8e;
 }
@@ -18,8 +18,8 @@ h1{
 	color: #171417;
 }
 hr{
-	color:  #8e7d8e;
-	border: dotted 10px #8e7d8e;
+	color:  #00203F;
+	border: dotted 10px #00203F;
 }
 p{
 	font-family:"Comic Sans MS";
