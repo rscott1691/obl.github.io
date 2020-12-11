@@ -1,9 +1,19 @@
 @font-face {
-font-family: "CustomFont";
-src: url("CustomFont.eot");
-src: url("CustomFont.woff") format("woff"),
-url("CustomFont.otf") format("opentype"),
-url("CustomFont.svg#filename") format("svg");
+    font-family: 'nerko_oneregular';
+    src: url('nerkoone-regular-webfont.woff2') format('woff2'),
+         url('nerkoone-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'ranchersregular';
+    src: url('ranchers-regular-webfont.woff2') format('woff2'),
+         url('ranchers-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 
