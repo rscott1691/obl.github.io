@@ -12,16 +12,19 @@ body{
 	border: dotted 10px #8e7d8e;
 }
 h1{
+	/* Heading Font*/:
 	text-align:center;
 	font-family:"Comic Sans MS";
 	font: 24pt;
 	color: #171417;
 }
 hr{
+	/* Boarder */:
 	color:  #00203F;
 	border: dotted 10px #00203F;
 }
 p{
+	/* Body Font*/:
 	font-family:"Comic Sans MS";
 	font-size: 12pt;
 	text-align: left;
