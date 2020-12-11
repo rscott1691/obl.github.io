@@ -1,0 +1,26 @@
+body{
+	background: #d6bcd6;
+	text-align: center;
+}
+#main{
+	width:1000px;
+	height:600px;
+	background: #EED1EE;
+	margin: 25px auto;
+	border: dotted 10px #8e7d8e;
+}
+h1{
+	text-align:center;
+	font-family:"Comic Sans MS";
+	font: 24pt;
+	color: #171417;
+}
+hr{
+	color:  #8e7d8e;
+	border: dotted 10px #8e7d8e;
+}
+p{
+	font-family:"Comic Sans MS";
+	font-size: 12pt;
+	text-align: left;
+}
