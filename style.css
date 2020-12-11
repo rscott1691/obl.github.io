@@ -1,10 +1,12 @@
 body{
+	/* Website background (outside) blue */:
 	background: #d6bcd6;
 	text-align: center;
 }
 #main{
 	width:1000px;
 	height:600px;
+	 /* Website background (inside) orange */:
 	background: #EED1EE;
 	margin: 25px auto;
 	border: dotted 10px #8e7d8e;
