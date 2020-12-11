@@ -18,32 +18,32 @@
 
 
 body{
-	/* Website background (outside) blue */:
+	/* Website background (outside) blue */
 	background: #00A4CC;
 	text-align: center;
 }
 #main{
 	width:1000px;
 	height:600px;
-	 /* Website background (inside) orange */:
+	 /* Website background (inside) orange */
 	background: #F95700;
 	margin: 25px auto;
 	border: dotted 10px #8e7d8e;
 }
 h1{
-	/* Heading Font*/:
+	/* Heading Font*/
 	text-align:center;
 	font-family:"Nerko one";
 	font: 24pt;
 	color: #171417;
 }
 hr{
-	/* Boarder */:
+	/* Boarder */
 	color:  #00203F;
 	border: dotted 10px #00203F;
 }
 p{
-	/* Body Font*/:
+	/* Body Font*/
 	font-family:"Ranchers";
 	font-size: 12pt;
 	text-align: left;
