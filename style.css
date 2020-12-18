@@ -50,10 +50,6 @@ p{
 }
 
 <!--Images Placed Here-->
-  
-styledimg {
-  background-image: url(/fancy_duck.jpg);
-  background-repeat: no-repeat;
-  width: 932px;
-  height: 699px;
-  }
+.img-fancy_duck{
+	width: 300px;
+}
