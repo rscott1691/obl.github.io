@@ -19,14 +19,14 @@
 
 body{
 	/* Website background (outside) blue */
-	background: #00A4CC;
+	background: #89D3D4;
 	text-align: center;
 }
 #main{
 	width:1000px;
 	height:600px;
 	 /* Website background (inside) orange */
-	background: #F95700;
+	background: #F4AF86;
 	margin: 25px auto;
 	border: dotted 10px #8e7d8e;
 }
