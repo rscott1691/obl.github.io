@@ -50,6 +50,11 @@ p{
 }
 
 <!--Images Placed Here-->
+.wrapper{
+	margin: 0 auto;
+	width:1000px;
+}
+
 .img-fancy_duck{
 	width: 300px;
 }
