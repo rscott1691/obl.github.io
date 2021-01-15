@@ -69,7 +69,7 @@ p{
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
   float: center;
-  width: 33.33%;
+  width: 25%;
   padding: 5px;
 }
 
