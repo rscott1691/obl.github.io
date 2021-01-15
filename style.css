@@ -47,14 +47,17 @@ p{
 	font-family:'ranchersregular';
 	font-size: 12pt;
 	text-align: left;
+	
+	
+	<!--Images Placed Here-->
+	.wrapper{
+		margin: 0 auto;
+		width:1000px;
+	}
+
+	.img-duck{
+		width: 300px;
+	}
 }
 
-<!--Images Placed Here-->
-.wrapper{
-	margin: 0 auto;
-	width:1000px;
-}
 
-.img-duck{
-	width: 300px;
-}
