@@ -50,18 +50,20 @@ p{
 }
 
 <!--Images Placed Here-->
-.wrapper{
-	margin: 0 auto;
-	width:1000px;
-}
+<!--.wrapper{-->
+<!--	margin: 0 auto;-->
+<!--	width:1000px;-->
+<!--}-->
+
+
 .img-bat{
-width: 100px;
+ width: 100px;
 }
 .img-duck{
-	width: 100px;
+ width: 100px;
 }
 .img-Eye{
-width: 100px;
+ width: 100px;
 }
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
